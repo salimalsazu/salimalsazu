@@ -1,5 +1,3 @@
-![(Web Developer)](https://salimalsazu.com/wp-content/uploads/2022/05/DSC_0271.jpg)
-
 
 ### Hi there 👋, I am Salim Al Sazu
 #### (Web Developer)
