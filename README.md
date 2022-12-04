@@ -33,8 +33,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/salimalsazu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="salimalsazu" /></a></p><br><br> 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salimalsazu&show_icons=true&locale=en&layout=compact" alt="salimalsazu" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=salimalsazu&show_icons=true&locale=en&layout=compact" alt="salimalsazu" /></p>
 <br> <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salimalsazu&show_icons=true&locale=en" alt="salimalsazu" /></p>
+<p classname:"margion-top:10px" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salimalsazu&show_icons=true&locale=en" alt="salimalsazu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salimalsazu&" alt="salimalsazu" /></p>
