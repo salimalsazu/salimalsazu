@@ -1,7 +1,7 @@
 ![Web Application Developer (MERN)](https://media-exp1.licdn.com/dms/image/D5616AQEtbz18wmjI2A/profile-displaybackgroundimage-shrink_350_1400/0/1669094329955?e=1675900800&v=beta&t=tYzN5opIjFn5mv3EUmNvCMfSnKkwB6RJGRNsXgiSanw)
 
 <h1 align="center">Hi 👋, I'm Salim Al Sazu :) </h1>
-<h3 align="center"> i am a Web Application Developer who is passionate about making error-free web application. Easily I adopt myself with new technology. I love coding and share this with social platform. Over the last three months, I created so many projects based on MERN. I love typescript & Redux 😃</h3>
+<h3 align="center"> i am a Web Application Developer who is passionate about making error-free web application. Easily I adopt myself with new technology. I love coding and share this with social platform.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salimalsazu&label=Profile%20views&color=0e75b6&style=flat" alt="salimalsazu" /> </p>
 
