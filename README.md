@@ -1,5 +1,3 @@
-![Web Application Developer (MERN)](https://media-exp1.licdn.com/dms/image/D5616AQEtbz18wmjI2A/profile-displaybackgroundimage-shrink_350_1400/0/1669094329955?e=1675900800&v=beta&t=tYzN5opIjFn5mv3EUmNvCMfSnKkwB6RJGRNsXgiSanw)
-
 <h1 align="center">Hi 👋, I'm Salim Al Sazu :) </h1>
 <h3 align="center"> i am a Web Application Developer who is passionate about making error-free web application. Easily I adopt myself with new technology. I love coding and share this with social platform.</h3>
 
@@ -7,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salimalsazu" alt="salimalsazu" /></a> </p>
 
-- 🔭 I’m currently working on **24/7 Sourcing Private Limited as an Application Developer**
+- 🔭 I’m currently working on **Code Quivers as an Application Developer**
 
 - 👨‍💻 All of my projects are available at [https://www.salimalsazu.com/](https://www.salimalsazu.com/)
 
