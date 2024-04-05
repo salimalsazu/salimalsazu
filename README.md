@@ -13,8 +13,6 @@
 
 - 💬 Ask me about anything about **Web Application**
 
-- 📄 My Resume [https://drive.google.com/file/d/1cw-MeQudSPM8hopQWwaelvw7dfW-W9oW/view?usp=sharing](https://drive.google.com/file/d/1cw-MeQudSPM8hopQWwaelvw7dfW-W9oW/view?usp=sharing)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
