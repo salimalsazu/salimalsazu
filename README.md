@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salim Al Sazu, </h1>
+<h1 align="center">Hi 👋, I'm Salim Al Sazu.. </h1>
 <h3 align="center"> i am a Web Application Developer who is passionate about making error-free web application. Easily I adopt myself with new technology. I love coding and share this with social platform. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salimalsazu&label=Profile%20views&color=0e75b6&style=flat" alt="salimalsazu" /> </p>
